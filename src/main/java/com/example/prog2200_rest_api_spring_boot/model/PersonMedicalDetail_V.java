@@ -1,4 +1,4 @@
-package com.example.alertsystem.model;
+package com.example.prog2200_rest_api_spring_boot.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

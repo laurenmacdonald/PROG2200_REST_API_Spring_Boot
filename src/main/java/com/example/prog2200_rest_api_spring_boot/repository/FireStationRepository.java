@@ -1,6 +1,7 @@
-package com.example.alertsystem.repository;
+package com.example.prog2200_rest_api_spring_boot.repository;
 
-import com.example.alertsystem.model.FireStation;
+
+import com.example.prog2200_rest_api_spring_boot.model.FireStation;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

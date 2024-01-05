@@ -1,9 +1,9 @@
-package com.example.alertsystem.controller;
+package com.example.prog2200_rest_api_spring_boot.controller;
 
-import com.example.alertsystem.model.Person;
-import com.example.alertsystem.model.PersonMedicalDetail_V;
-import com.example.alertsystem.service.FireStationService;
-import com.example.alertsystem.service.PersonService;
+import com.example.prog2200_rest_api_spring_boot.model.Person;
+import com.example.prog2200_rest_api_spring_boot.model.PersonMedicalDetail_V;
+import com.example.prog2200_rest_api_spring_boot.service.FireStationService;
+import com.example.prog2200_rest_api_spring_boot.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

@@ -1,6 +1,5 @@
-package com.example.alertsystem.service;
-
-import com.example.alertsystem.repository.FireStationRepository;
+package com.example.prog2200_rest_api_spring_boot.service;
+import com.example.prog2200_rest_api_spring_boot.repository.FireStationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

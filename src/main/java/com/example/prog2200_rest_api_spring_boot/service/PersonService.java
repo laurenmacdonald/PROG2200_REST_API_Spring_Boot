@@ -1,13 +1,14 @@
-package com.example.alertsystem.service;
+package com.example.prog2200_rest_api_spring_boot.service;
 
-import com.example.alertsystem.model.Address;
-import com.example.alertsystem.model.Person;
-import com.example.alertsystem.model.PersonMedicalDetail_V;
-import com.example.alertsystem.repository.*;
+import com.example.prog2200_rest_api_spring_boot.model.Address;
+import com.example.prog2200_rest_api_spring_boot.model.Person;
+import com.example.prog2200_rest_api_spring_boot.model.PersonMedicalDetail_V;
+import com.example.prog2200_rest_api_spring_boot.repository.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 @Service
 public class PersonService {

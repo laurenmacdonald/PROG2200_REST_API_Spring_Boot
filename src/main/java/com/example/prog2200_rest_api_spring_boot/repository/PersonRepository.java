@@ -1,9 +1,9 @@
-package com.example.alertsystem.repository;
+package com.example.prog2200_rest_api_spring_boot.repository;
 
-import com.example.alertsystem.model.Address;
-import com.example.alertsystem.model.Person;
+
+import com.example.prog2200_rest_api_spring_boot.model.Address;
+import com.example.prog2200_rest_api_spring_boot.model.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
-
 
 import java.util.List;
 
